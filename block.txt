@@ -29,7 +29,7 @@ ecs-lp1.hac.shop.nintendo.net
 (\.|^)nintendo-europe\.com$
 (\.|^)nintendowifi\.net$
 (\.|^)nintendo\.es$
-(\.|^)nintendo\.co.kr$
+(\.|^)nintendo\.co\.kr$
 (\.|^)nintendo\.tw$
 (\.|^)nintendo\.com\.hk$
 (\.|^)nintendo\.com\.au$
@@ -49,7 +49,7 @@ ecs-lp1.hac.shop.nintendo.net
 (\.|^)nintendo\.no$
 (\.|^)nintendo\.pt$
 (\.|^)nintendo\.ru$
-(\.|^)nintendo\.co.za$
+(\.|^)nintendo\.co\.za$
 (\.|^)nintendo\.se$
 (\.|^)nintendo\.ch$
 (\.|^)nintendo\.pl$
