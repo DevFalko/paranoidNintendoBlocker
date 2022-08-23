@@ -19,9 +19,11 @@ d4c.nintendo.net
 dauth-lp1.ndas.srv.nintendo.net
 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
 ecs-lp1.hac.shop.nintendo.net
-.nintendo.com
-.nintendo.net
-.nintendo.jp
+
+
+(\.|^)nintendo\.com$
+(\.|^)nintendo\.net$
+(\.|^)nintendo\.jp$
 .nintendo.co.jp
 .nintendo.co.uk
 .nintendo-europe.com
