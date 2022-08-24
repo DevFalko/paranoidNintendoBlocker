@@ -12,9 +12,9 @@ bcat-list-lp1.cdn.nintendo.net
 bcat-topics-lp1.cdn.nintendo.net
 beach.hac.lp1.eshop.nintendo.net
 broker.lp1.npns.srv.nintendo.net
-conntest.nintendowifi.net
+#conntest.nintendowifi.net
 cdn.nintendo.net
-ctest.cdn.nintendo.net
+#ctest.cdn.nintendo.net
 d4c.nintendo.net
 dauth-lp1.ndas.srv.nintendo.net
 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
